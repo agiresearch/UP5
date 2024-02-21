@@ -1,4 +1,4 @@
-# UFO: Unbiased Foundation Model for Fairness-aware Recommendation
+# UP5: Unbiased Foundation Model for Fairness-aware Recommendation
 ## Abstract
 
 Recent advances in Foundation Models such as Large Language Models (LLMs) have propelled them to the forefront of Recommender Systems (RS). Despite their utility, there is a growing concern that LLMs might inadvertently perpetuate societal stereotypes, resulting in unfair recommendations. Since fairness is critical for RS as many users take it for decision-making and demand fulfillment, this paper focuses on user-side fairness for LLM-based recommendation where the users may require a recommender system to be fair on specific sensitive features such as gender or age. In this paper, we dive into the extent of unfairness exhibited by LLM-based recommender models based on both T5 and LLaMA backbones, and discuss appropriate methods for promoting equitable treatment of users in LLM-based recommendation models. We introduce a novel Counterfactually-Fair-Prompt (CFP) method towards Unbiased Foundation mOdels (UFO) for fairness-aware LLM-based recommendation. 
